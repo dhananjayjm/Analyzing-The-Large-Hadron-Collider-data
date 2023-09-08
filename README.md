@@ -43,6 +43,8 @@ This project utilizes several Python libraries for data analysis and visualizati
 
 3. The bin with the highest frequency in the histogram is identified, and its corresponding x-value represents the Z boson mass measurement using the histogram method.
 
+4. ![](https://github.com/dhananjayjm/Analyzing-The-Large-Hadron-Collider-data/blob/main/histogram.png) 
+
 ### Gaussian Fitting
 
 4. As a comparison, the project fits a Gaussian distribution to the data and identifies the maximum of this distribution. This value represents the Z boson mass measurement using the Gaussian fitting method.
